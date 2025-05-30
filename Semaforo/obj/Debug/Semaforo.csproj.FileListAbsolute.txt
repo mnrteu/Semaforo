@@ -1,0 +1,10 @@
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.AssemblyReference.cache
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.Semáforo.resources
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\mateus.msantos16\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
